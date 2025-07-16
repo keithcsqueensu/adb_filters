@@ -1,9 +1,10 @@
-
 ! Title: My Ad Filters
+! TimeUpdated: 20250716
 ! Description: My Ad Filters
 ! Version: 20250716
-! TimeUpdated: 20250716
+! Homepage: https://github.com/keithcsqueensu/adb_filters/blob/main/yipkeith_adb_filters.txt
 
+! START: Rules from filters.txt
 
 www.eurogamer.net##.disclaimer
 
