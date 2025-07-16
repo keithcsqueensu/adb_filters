@@ -26,3 +26,4 @@ www.reddit.com##faceplate-tracker:is([noun=gen_guides_sidebar], [noun=try_reddit
 www.reddit.com##nav[aria-label='Reddit resources']
 www.reddit.com##faceplate-tracker:has(button#get-app)
 www.reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
+www.reddit.com##shreddit-join-button
