@@ -22,8 +22,10 @@ www.hatland.com##[class~=shopperapproved_widget]
 
 
 ! 20250716 reddit.com
-www.reddit.com##faceplate-tracker:is([noun=gen_guides_sidebar], [noun=try_reddit_pro], [noun=advertise])
-www.reddit.com##nav[aria-label='Reddit resources']
-www.reddit.com##faceplate-tracker:has(button#get-app)
-www.reddit.com##faceplate-tracker[noun="gen_guides_sidebar"]
-www.reddit.com##shreddit-join-button
+www.reddit.com##faceplate-tracker:is([noun=gen_guides_sidebar], [noun=try_reddit_pro], [noun=advertise], :has(button#get-app), [source=xpromo], [noun="avatar_shop"])
+www.reddit.com##:is(shreddit-join-button,shreddit-post-share-button,award-button,nav[aria-label='Reddit resources'])
+www.reddit.com##div[slot=actionRow]:has(shreddit-comment-action-row)
+!www.reddit.com##[class~=shreddit-post-container]
+www.reddit.com##div[aria-label="Actions available for this post"] > span:has([data-post-click-location="vote"])
+www.reddit.com##create-post-entry-point-wrapper
+www.reddit.com##faceplate-textarea-input[placeholder="Join the conversation"]
