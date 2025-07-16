@@ -1,0 +1,27 @@
+
+! Title: My Ad Filters
+! Description: My Ad Filters
+! Version: 20250716
+! TimeUpdated: 20250716
+
+
+www.eurogamer.net##.disclaimer
+
+! Jun 24, 2024 https://www.infoq.com
+www.infoq.com##.cards.nocontent.related__group.no-style
+
+! Jul 1, 2024 https://www.hatland.com
+
+! Oct 9, 2024 https://www-cbc-ca.cdn.ampproject.org
+
+! 20250716 hatland.com
+www.hatland.com###banner-wide
+www.hatland.com##[class~=shopperlink]
+www.hatland.com##[class~=shopperapproved_widget]
+
+
+! 20250716 reddit.com
+www.reddit.com##faceplate-tracker:is([noun=gen_guides_sidebar], [noun=try_reddit_pro], [noun=advertise])
+www.reddit.com##nav[aria-label='Reddit resources']
+www.reddit.com##faceplate-tracker:has(button#get-app)
+
