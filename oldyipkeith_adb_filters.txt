@@ -1,0 +1,152 @@
+||m.hatland.com/images/free-shipping-on-3.*$image
+||m.media-amazon.com/images/I/81GxnWcPRfL._AC_SY310_.jpg$image
+||searchenginejournal.com/wp-json/sscats/v2/stext/seo$subdocument
+9to5google.com##div[id^="infinite-view-"]
+amazon.ca###music, #nav-link-prime, #prime, #video, .glow-try-prime-btn-stack.a-button-stack
+
+barbend.com##.review-disclaimer
+biblegateway.com###app-cta, .flex-5.carousel.sidebar-tabs > div, .flex-5.resources, .homepage-blocks
+bleepingcomputer.com##.bc_right_sidebar.col-md-4, .cz-newz-comment-wrapp, .cz-post-comment-wrapp
+blogto.com##.content-from-our-partners-section, .sponsored-disclaimer
+castanet.net###rnews
+comicbook.com###section0 > .trending-now.SidebarCard, .clearfix.channel-nav.ChannelNav--comicbook
+ctvnews.ca##.aem-GridColumn--offset--abovedefault--0.aem-GridColumn--abovedefault--12.aem-GridColumn--offset--default--0.aem-GridColumn--default--12.aem-GridColumn--offset--tabletlandscape--0.aem-GridColumn--tabletlandscape--12.aem-GridColumn--offset--tablet--0.aem-GridColumn--tablet--12.aem-GridColumn--offset--phonelandscape--0.aem-GridColumn--phonelandscape--12.aem-GridColumn--offset--phone--0.aem-GridColumn--phone--12.aem-GridColumn > .c-experiencefragment--.c-experiencefragment > .basicpage.page.xfpage
+ctvnews.ca##.c-heroMedia
+ctvnews.ca##.ctvshop-widget-wrapper
+ctvnews.ca##.xf-content-height > .aem-Grid--phone--12.aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid
+ctvnews.ca##.xf-content-height > .aem-Grid--phone--12.aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--tablet--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid
+ctvnews.ca##.xf-content-height > .aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--12.aem-Grid
+dev.to###main-content > .js-billboard.billboard.crayons-story__billboard.crayons-story
+dev.to###page-content-inner > .crayons-layout__comments-billboard.pb-4.js-billboard-container > div
+dev.to###substories > div.js-billboard.billboard.crayons-story__billboard.crayons-story > .crayons-story__body
+dev.to##.article-wrapper > .crayons-layout__comments-billboard.pb-4
+dev.to##.body-billboard-container.js-billboard-container
+dev.to##.border-base-10.border-solid.border-0.border-t-1.mb-4.text-padding
+dev.to##.grid.gap-4.pt-0.p-4.branded-7.crayons-card--secondary.crayons-card
+dev.to##.js-billboard-container.break-word.gap-4.grid.crayons-article-sticky
+dev.to##.mr-2.whitespace-nowrap.c-cta--branded.c-cta
+dev.to##.print-hidden.crayons-article-actions
+dev.to##.print-hidden.crayons-footer
+digitaltrends.com##.b-headline__note
+digitaltrends.com##.b-single__teasers.b-teasers
+duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM.homepage-cta-section_scrollCta__HuSCL
+duckduckgo.com##.container_responsive__IDWnv.container_root__Lmrbx.desktop-homepage_heroContent__px79B
+duckduckgo.com##.desktop-homepage_belowTheFoldWrapper__ruEBp
+duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__I_rnZ
+duckduckgo.com##.spread-cta--has-top-margin.ia-module--spread-cta.module
+duckduckgo.com##.V_kJtMs7Zyzm6ruq8Z3u.O9Ipab51rBntYb0pwOQn
+efinancialcareers.com##.footerOverlay
+efinancialcareers.com##.ng-star-inserted.right-section
+efinancialcareers.com##.ng-star-inserted.sticky.mobile.comments-and-likes
+efinancialcareers.com##.ng-star-inserted.top-news-letter-cta
+efinancialcareers.com##.related-articles-container
+efinancialcareers.com##.top-articles-container
+efinancialcareers.com##.top-level-comment.ng-tns-c4141607608-3.disabled.justify-content-start.d-flex.btn.comments-btn.search-filter-btn
+efinancialcareers.com##footer
+fortune.com###article-related
+fortune.com##.article.gjLFAy.sc-83cd12c6-0
+fortune.com##.dxgidY.sc-b390ba32-1
+fortune.com##.stickyDisclosure.eaysov.sc-bcd02218-0
+fortune.com##.stickyDisclosure.landingPage.eaysov.sc-bcd02218-0
+fortune.com##div.latest-popular-module.jCgHcX.sc-14050fea-0:nth-of-type(2)
+fortune.com##div.latest-popular-module.jCgHcX.sc-14050fea-0:nth-of-type(3)
+gamerant.com###website-footer
+gamerant.com##.article-footer
+gamesradar.com##.slice-container-affiliateDisclaimer.affiliateDisclaimerBar.affiliate-disclaimer-bar-slice.slice-container
+hackaday.com###main > .widget-recent-posts.widget
+hackaday.com##.comments-area
+hatclub.com##.svelte-vzkjil.tc-mobile-download-banner-top.tc-mobile-download-banner-container
+hatland.com###page-bot > .footer_lite
+hatland.com##[href="/email-flyer/"]
+hatland.com##[src="/hatsgraphics/paypal-head4.jpg"]
+hatland.com##[src="/hatsgraphics/shopper-approved-icon.jpg"]
+hatland.com##div.content_lite > table > tbody > tr > td
+hatland.com##div.content_lite:nth-of-type(1)
+hatland.com##td.search_bar_menu > picture
+howtogeek.com###website-footer
+howtogeek.com##.affiliate-sponsored
+howtogeek.com##.footer-recommended-feed
+howtogeek.com##.footer-threads
+m.economictimes.com##.i-amphtml-layout.i-amphtml-built.i-amphtml-next-page.i-amphtml-element.i-amphtml-layout-container
+m.hatland.com##.borderstyle
+m.hatland.com##div.titlestyle:nth-of-type(16)
+marktechpost.com##.mysticky-welcomebar-fixed-wrap
+marktechpost.com##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.tdi_1.td_block_related_posts_mob.td_block_wrap
+mobilesyrup.com##.aboveShareCopy
+mobilesyrup.com##.bg-salmon.post-newsletter-container
+mobilesyrup.com##.post-content-container > .sidebar
+neowin.net###content > .comments
+neowin.net##.article-header > span
+neowin.net##.comment-list > .comment-message-guest
+neowin.net##.promos
+neowin.net##.w-col-4.d-col-4.sidebar-col
+omgubuntu.co.uk##.widget_omg_plausible_most_popular_widget.widget
+patient.medeohealth.com###mat-tab-link-3
+patient.medeohealth.com###mat-tab-link-5
+patient.medeohealth.com###mat-tab-link-6
+patient.medeohealth.com##.ng-star-inserted.qhr-overview-tab__book-toolbar
+patient.medeohealth.com##a.ng-star-inserted.qhr-settings-navigator__link:nth-of-type(3)
+pcgamer.com###comment-jump
+pcgamer.com##.more-about__container
+phonearena.com##.out-content-widget.mb-48.latest-stories-section
+phonearena.com##.out-content-widget.mb-48.popular-stories-section
+phoronix.com###sidebar
+phoronix.com##.after-article > .article-box
+politico.com##.story-text > aside.story-enhancement > .standard.story-enhancement
+psychologytoday.com###block-blogentrymorefrompt-2
+psychologytoday.com###block-pt-amptheme-findatherapistreferenceblock
+psychologytoday.com###block-pt-amptheme-views-block-blog-entry-most-popular
+psychologytoday.com##.magazine-footer-block__container
+reddit.com##.xs\:overflow-x-hidden.xs\:overflow-y-auto.xs\:max-h-\[calc\(100vh-var\(--shreddit-header-height\)-1px\)\].xs\:top-\[56px\].xs\:sticky.styled-scrollbars.block.xs\:min-w-\[316px\].xs\:w-\[316px\].w-full.right-sidebar
+reuters.com##.site-footer__product__vlZoQ
+sammyfans.com###mvp-post-add-box > .relative.left
+sammyfans.com##.mvp-cont-read-wrap
+searchenginejournal.com###summita-wrapa_112
+storeys.com##.maintop_ad.placeholder
+streetsoftoronto.com##div.fadeInUp
+t3.com##.hawk-multi-model-review-retail-container
+t3.com##.listing--suggested.listing--related.listing
+techradar.com##.more-about__container
+techradar.com##.more-about__containerthenewstack.io##.sponsors-rss-block
+techradar.com##.popular-box
+theconversation.com###comments-container
+theconversation.com##.events.jobs-events-list.addendum-block
+theconversation.com##.react-content-related-container
+thecooldown.com##.cool_stories__wrapper
+theglobeandmail.com##.tgam-persistent-article.ipVrsV.PersistentArticle__StyledHeader-sc-18bsgul-0
+thenewstack.io##.sponsors-rss-block
+thestar.com##.in.collapse.hidden-print.tncms-region
+thetyee.ca##.scroll.clearfix.tool-bar
+theweathernetwork.com###Beta_PopUp
+theweathernetwork.com##.bfGFQr.sc-aa33080d-0
+theweathernetwork.com##.erYrKX.sc-6e1bdb72-7
+theweathernetwork.com##.idYFOs.sc-ec6d7726-0
+theweathernetwork.com##.itXlof.sc-d2a87821-0.sYjEI.sc-68be017-0
+tomsguide.com###affiliate-disclaimer
+tomsguide.com##.popular-box
+tomshardware.com##.affiliate-disclaimer__copy
+urbantoronto.ca##.ad-bigbox-sidebar
+urbantoronto.ca##.header-block
+urbantoronto.ca##.main-footer
+urbantoronto.ca##.news-header
+urbantoronto.ca##.p-nav-inner
+vox.com##._1ot72dd2
+vox.com##._1ot72dd4
+windowscentral.com##.infinite-article-1.infinite-article
+windowscentral.com##.slice-container-affiliateDisclaimer.affiliateDisclaimerBar.affiliate-disclaimer-bar-slice.slice-container
+windowscentral.com##aside.hawk-processed.hawk-nest:nth-of-type(2)
+windowslatest.com##.td_block_template_1.td-pb-border-top.td_with_ajax_pagination.tdi_6.td_block_related_posts.td_block_wrap
+windowslatest.com##.td-ss-main-sidebar
+winnipegfreepress.com##.modal-bg
+x.com###credential_picker_container
+x.com##.r-yz1j6i.r-qo02w8.r-l5o3uw.css-175oi2r
+xda-developers.com##.affiliate-sponsored > span, .article-widget-feed, .footer-recommended-feed, .footer-threads
+
+! Jul 15, 2024 https://cbc.ca
+cbc.ca##.trending.horizontal
+cbc.ca##.sclt-morenews.moreStories
+cbc.ca##.sclt-footer.globalFooter > .footerBody
+
+! Aug 2, 2024 https://amazon.ca
+amazon.ca###primeABBUpsell_feature_div
+
