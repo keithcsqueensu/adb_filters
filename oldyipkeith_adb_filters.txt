@@ -1,3 +1,9 @@
+! Title: MyOldAdFilters
+! TimeUpdated: 20250716
+! Description: My Old Ad Filters
+! Version: 20250717
+! Homepage: https://github.com/keithcsqueensu/adb_filters/blob/main/oldyipkeith_adb_filters.txt
+! START: Rules from filters.txt
 ||m.hatland.com/images/free-shipping-on-3.*$image
 ||m.media-amazon.com/images/I/81GxnWcPRfL._AC_SY310_.jpg$image
 ||searchenginejournal.com/wp-json/sscats/v2/stext/seo$subdocument
