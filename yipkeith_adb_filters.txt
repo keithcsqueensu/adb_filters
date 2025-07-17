@@ -3,29 +3,14 @@
 ! Description: My Ad Filters
 ! Version: 20250716
 ! Homepage: https://github.com/keithcsqueensu/adb_filters/blob/main/yipkeith_adb_filters.txt
-
 ! START: Rules from filters.txt
-
 www.eurogamer.net##.disclaimer
-
-! Jun 24, 2024 https://www.infoq.com
+! 20240624 www.infoq.com
 www.infoq.com##.cards.nocontent.related__group.no-style
-
-! Jul 1, 2024 https://www.hatland.com
-
-! Oct 9, 2024 https://www-cbc-ca.cdn.ampproject.org
-
 ! 20250716 hatland.com
-www.hatland.com###banner-wide
-www.hatland.com##[class~=shopperlink]
-www.hatland.com##[class~=shopperapproved_widget]
-
-
+www.hatland.com###banner-wide,[id^=PopupSignupForm],[class~=shopperlink],[class~=shopperapproved_widget]
 ! 20250716 reddit.com
-www.reddit.com##faceplate-tracker:is([noun=gen_guides_sidebar], [noun=try_reddit_pro], [noun=advertise], :has(button#get-app), [source=xpromo], [noun="avatar_shop"])
-www.reddit.com##:is(shreddit-join-button,shreddit-post-share-button,award-button,nav[aria-label='Reddit resources'])
-www.reddit.com##div[slot=actionRow]:has(shreddit-comment-action-row)
-!www.reddit.com##[class~=shreddit-post-container]
-www.reddit.com##div[aria-label="Actions available for this post"] > span:has([data-post-click-location="vote"])
-www.reddit.com##create-post-entry-point-wrapper
-www.reddit.com##faceplate-textarea-input[placeholder="Join the conversation"]
+www.reddit.com##faceplate-tracker:is([noun=try_reddit_pro], [noun=advertise], :has(button#get-app), [source=xpromo], [noun="avatar_shop"], [noun="edit_avatar"], [source="achievements"], [noun="contributor_program"]), button[upvote], button[downvote], shreddit-join-button,[class~=legal-links], nav[aria-label='Reddit resources'], shreddit-comment-action-row, shreddit-async-loader[bundlename="feed_announcement"], [class~=left-nav-create-community-button], create-post-entry-point-wrapper, faceplate-textarea-input[placeholder="Join the conversation"], div[aria-label="Actions available for this post"], details:has( :is(summary[aria-controls="moderation_section"], summary[aria-controls="multireddits_section"])), [data-part="inbox"], reddit-chat-header-button, shreddit-modmode-setter 
+www.reddit.com#%#//scriptlet('hide-in-shadow-dom', ':is(shreddit-comment-action-row,shreddit-join-button,shreddit-post-overflow-menu,shreddit-post-share-button,award-button,[noun=gen_guides_sidebar])')
+! amazon.ca
+www.amazon.ca##[aria-labelledby="sp-cc-header"]
