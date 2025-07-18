@@ -76,8 +76,9 @@
   { font-family: 'SegoeUI' }
 }
 
-@-moz-document domain('shop.equinox.com') {
+@-moz-document domain('equinox.com') {
   :root {
     --font-family-primary: "SegoeUI", sans-serif;
   }
+  html body { font-family: 'SegoeUI' }
 }
