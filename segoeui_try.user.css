@@ -81,5 +81,5 @@
     --font-family-primary: "SegoeUI", sans-serif;
     --font-family-sans-serif: "SegoeUI";
   }
-  html body { font-family: 'SegoeUI' }
+  html body { font-family: "SegoeUI"; }
 }
