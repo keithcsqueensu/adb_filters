@@ -75,3 +75,9 @@
   .rtaOSd-AznF2e .rtaOSd-jY41G-V67aGc
   { font-family: 'SegoeUI' }
 }
+
+@-moz-document domain('shop.equinox.com') {
+  :root {
+    --font-family-primary: "SegoeUI", sans-serif;
+  }
+}
