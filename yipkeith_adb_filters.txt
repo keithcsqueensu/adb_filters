@@ -33,5 +33,7 @@ duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__I_rnZ, .mobile-homepage_b
 !duckduckgo.com##.spread-cta--has-top-margin.ia-module--spread-cta.module
 
 duckduckgo.com##.mobile-homepage_footer__JZ8h8, div:has(> a[href="#features"]), div[data-testid="serp-atb-btn"], #react-ai-button-slot, .V_kJtMs7Zyzm6ruq8Z3u.O9Ipab51rBntYb0pwOQn, .footer__addons, div:has(> section > :contains(Switch to DuckDuckGo)), [class^="sidemenu-browser-promo_sideMenuBrowserPromo"], section[class^=sideMenu]:has(:is(:contains(Downloads), :contains(More from DuckDuckGo))) , [data-testid="aichat-button"], div:has(>[data-testid="feedback-prompt"]), div[class^=header]:has(>a[href="/compare-privacy"])
-||equinox.com^$csp=font-src c.s-microsoft.com
+!||equinox.com^$csp=font-src c.s-microsoft.com
+!@@||equinox.com$csp
 equinox.com###onetrust-consent-sdk,#shopify-section-a-announcement-bar
+||chatapps-us.netomi.com^
