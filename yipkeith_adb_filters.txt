@@ -37,3 +37,6 @@ duckduckgo.com##.mobile-homepage_footer__JZ8h8, div:has(> a[href="#features"]), 
 !@@||equinox.com$csp
 equinox.com###onetrust-consent-sdk,#shopify-section-a-announcement-bar
 ||chatapps-us.netomi.com^
+blogto.com##.content-from-our-partners-section, .sponsored-disclaimer
+urbantoronto.ca##.main-notice
+[$path=/forum/]urbantoronto.ca###main-header

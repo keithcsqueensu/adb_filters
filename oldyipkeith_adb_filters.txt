@@ -12,7 +12,7 @@ amazon.ca###music, #nav-link-prime, #prime, #video, .glow-try-prime-btn-stack.a-
 barbend.com##.review-disclaimer
 biblegateway.com###app-cta, .flex-5.carousel.sidebar-tabs > div, .flex-5.resources, .homepage-blocks
 bleepingcomputer.com##.bc_right_sidebar.col-md-4, .cz-newz-comment-wrapp, .cz-post-comment-wrapp
-blogto.com##.content-from-our-partners-section, .sponsored-disclaimer
+
 castanet.net###rnews
 cbc.ca##.trending.horizontal, .sclt-morenews.moreStories, .sclt-footer.globalFooter > .footerBody
 comicbook.com###section0 > .trending-now.SidebarCard, .clearfix.channel-nav.ChannelNav--comicbook
