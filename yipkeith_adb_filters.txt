@@ -22,16 +22,12 @@ apkcombo.com##aside[class~=is-nav],[class~=apk-description],[class~=downloader-t
 apkpure.com##.chrome-install-pop, #nav_download_management, #policy-info, .share-fixed, [class~=discover], [dt-params*="module_name=apkpure_app"], .details_how_to, .follow-warp.details, [data-dt-module-name="popular_apps_24h"], [class="download-vip-subscribe-wrap"], a[title="Join Telegram Channel"],  a[title="How to install XAPK / APK file"], [class~="share-box"], [class~=security-statement-card], [class="module faq"], [dt-params*="module_name=push_subscribe"], [dt-eid="pwa_subscribe_button"], [class~="nav_aipure"]
 ! 20250717 theweathernetwork.com
 theweathernetwork.com##[data-testid="cookie-bar"]
-
 xda-developers.com##.affiliate-sponsored > span, .article-widget-feed, .footer-recommended-feed, .footer-threads
-
-
 !duckduckgo.com##.center_andText__ejUnC.center_intrinsic__mk_Ab.center_root__Uf1xM.homepage-cta-section_scrollCta__HuSCL
 !duckduckgo.com##.container_responsive__IDWnv.container_root__Lmrbx.desktop-homepage_heroContent__px79B
 duckduckgo.com##.desktop-homepage_belowTheFoldWrapper__ruEBp, div#features[data-testid="belowTheFold"]
 duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__I_rnZ, .mobile-homepage_belowTheFoldWrapper__uLd_z
 !duckduckgo.com##.spread-cta--has-top-margin.ia-module--spread-cta.module
-
 duckduckgo.com##.mobile-homepage_footer__JZ8h8, div:has(> a[href="#features"]), div[data-testid="serp-atb-btn"], #react-ai-button-slot, .V_kJtMs7Zyzm6ruq8Z3u.O9Ipab51rBntYb0pwOQn, .footer__addons, div:has(> section > :contains(Switch to DuckDuckGo)), [class^="sidemenu-browser-promo_sideMenuBrowserPromo"], section[class^=sideMenu]:has(:is(:contains(Downloads), :contains(More from DuckDuckGo))) , [data-testid="aichat-button"], div:has(>[data-testid="feedback-prompt"]), div[class^=header]:has(>a[href="/compare-privacy"])
 !||equinox.com^$csp=font-src c.s-microsoft.com
 !@@||equinox.com$csp
@@ -39,4 +35,7 @@ equinox.com###onetrust-consent-sdk,#shopify-section-a-announcement-bar
 ||chatapps-us.netomi.com^
 blogto.com##.content-from-our-partners-section, .sponsored-disclaimer
 urbantoronto.ca##.main-notice
-[$path=/forum/]urbantoronto.ca###main-header
+[$path=/forum/]urbantoronto.ca##div:has(>#main-header),#header_block
+urbantoronto.ca#$?#body { padding-top:0px !important; } 
+urbantoronto.ca#$?#[data-xf-init="sticky-header"] {top: 0px !important;}
+uniformwarehouse.com##[class~=t4s-newsletter_pp_wrapper]
