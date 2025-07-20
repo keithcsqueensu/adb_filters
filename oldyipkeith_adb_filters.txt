@@ -51,7 +51,7 @@ searchenginejournal.com###summita-wrapa_112
 storeys.com##.maintop_ad.placeholder
 streetsoftoronto.com##div.fadeInUp
 t3.com##.hawk-multi-model-review-retail-container, .listing--suggested.listing--related.listing
-techradar.com##.more-about__container, .more-about__containerthenewstack.io##.sponsors-rss-block, .popular-box
+techradar.com##.more-about__container, .more-about__containerthenewstack.io, .sponsors-rss-block, .popular-box
 theconversation.com###comments-container, .events.jobs-events-list.addendum-block, .react-content-related-container
 thecooldown.com##.cool_stories__wrapper
 theglobeandmail.com##.tgam-persistent-article.ipVrsV.PersistentArticle__StyledHeader-sc-18bsgul-0
