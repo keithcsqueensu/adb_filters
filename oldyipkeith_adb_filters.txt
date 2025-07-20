@@ -12,14 +12,12 @@ amazon.ca###music, #nav-link-prime, #prime, #video, .glow-try-prime-btn-stack.a-
 barbend.com##.review-disclaimer
 biblegateway.com###app-cta, .flex-5.carousel.sidebar-tabs > div, .flex-5.resources, .homepage-blocks
 bleepingcomputer.com##.bc_right_sidebar.col-md-4, .cz-newz-comment-wrapp, .cz-post-comment-wrapp
-
 castanet.net###rnews
 cbc.ca##.trending.horizontal, .sclt-morenews.moreStories, .sclt-footer.globalFooter > .footerBody
 comicbook.com###section0 > .trending-now.SidebarCard, .clearfix.channel-nav.ChannelNav--comicbook
 ctvnews.ca##.aem-GridColumn--offset--abovedefault--0.aem-GridColumn--abovedefault--12.aem-GridColumn--offset--default--0.aem-GridColumn--default--12.aem-GridColumn--offset--tabletlandscape--0.aem-GridColumn--tabletlandscape--12.aem-GridColumn--offset--tablet--0.aem-GridColumn--tablet--12.aem-GridColumn--offset--phonelandscape--0.aem-GridColumn--phonelandscape--12.aem-GridColumn--offset--phone--0.aem-GridColumn--phone--12.aem-GridColumn > .c-experiencefragment--.c-experiencefragment > .basicpage.page.xfpage, .c-heroMedia, .ctvshop-widget-wrapper, .xf-content-height > .aem-Grid--phone--12.aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid, .xf-content-height > .aem-Grid--phone--12.aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--tablet--12.aem-Grid--phonelandscape--12.aem-Grid--12.aem-Grid, .xf-content-height > .aem-Grid--tabletlandscape--12.aem-Grid--default--12.aem-Grid--12.aem-Grid
 dev.to###main-content > .js-billboard.billboard.crayons-story__billboard.crayons-story, #page-content-inner > .crayons-layout__comments-billboard.pb-4.js-billboard-container > div, #substories > div.js-billboard.billboard.crayons-story__billboard.crayons-story > .crayons-story__body, .article-wrapper > .crayons-layout__comments-billboard.pb-4, .body-billboard-container.js-billboard-container, .border-base-10.border-solid.border-0.border-t-1.mb-4.text-padding, .print-hidden.crayons-footer, .grid.gap-4.pt-0.p-4.branded-7.crayons-card--secondary.crayons-card, .js-billboard-container.break-word.gap-4.grid.crayons-article-sticky, .mr-2.whitespace-nowrap.c-cta--branded.c-cta, .print-hidden.crayons-article-actions
 digitaltrends.com##.b-headline__note, .b-single__teasers.b-teasers
-
 efinancialcareers.com##.footerOverlay, .ng-star-inserted.right-section, .ng-star-inserted.sticky.mobile.comments-and-likes, .ng-star-inserted.top-news-letter-cta, .related-articles-container, .top-articles-container, .top-level-comment.ng-tns-c4141607608-3.disabled.justify-content-start.d-flex.btn.comments-btn.search-filter-btn, footer
 fortune.com###article-related
 fortune.com##.article.gjLFAy.sc-83cd12c6-0
