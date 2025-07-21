@@ -20,7 +20,8 @@ infoq.com##.cards.nocontent.related__group.no-style
 reddit.com##reddit-header-small > header > nav > div[class~=relative] > div[class~=relative], faceplate-tracker:is(:has(button#get-app), [noun="avatar_shop"], [noun="contributor_program"], [noun="edit_avatar"], [noun="gen_guides_top"], [noun="inbox"], [noun=advertise], [noun=try_reddit_pro], [source="achievements"], [source="xpromo"]), [class~=left-nav-create-community-button], [class~=legal-links], [data-part="inbox"], button[downvote], button[upvote], create-post-entry-point-wrapper, div[aria-label="Actions available for this post"], faceplate-bottom-sheet[id^="xpromo"], faceplate-textarea-input[placeholder="Join the conversation"], nav[aria-label='Reddit resources'], reddit-chat-header-button, shreddit-async-loader[bundlename="feed_announcement"], shreddit-comment-action-row, shreddit-join-button, shreddit-modmode-setter, details:has( :is(summary[aria-controls="moderation_section"], summary[aria-controls="multireddits_section"])), reddit-sidebar-nav#left-sidebar > nav > :is(:nth-child(2 of hr), :nth-child(3 of hr))
 reddit.com#%#//scriptlet('hide-in-shadow-dom', ':is(shreddit-comment-action-row,shreddit-join-button,shreddit-post-overflow-menu,shreddit-post-share-button,award-button,[noun=gen_guides_sidebar])')
 theweathernetwork.com##[data-testid="cookie-bar"]
-uniformwarehouse.com##[class~=t4s-newsletter_pp_wrapper]
+uniformswarehouse.com#%#//scriptlet('remove-class','is-opening-mfp')
+uniformswarehouse.com##[class~=t4s-newsletter_pp_wrapper]
 urbantoronto.ca##.main-notice
 urbantoronto.ca#$?#[data-xf-init="sticky-header"] {top: 0px !important;}
 urbantoronto.ca#$?#body { padding-top:0px !important; } 
