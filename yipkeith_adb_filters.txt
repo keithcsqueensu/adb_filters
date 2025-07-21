@@ -21,7 +21,7 @@ reddit.com##reddit-header-small > header > nav > div[class~=relative] > div[clas
 reddit.com#%#//scriptlet('hide-in-shadow-dom', ':is(shreddit-comment-action-row,shreddit-join-button,shreddit-post-overflow-menu,shreddit-post-share-button,award-button,[noun=gen_guides_sidebar])')
 theweathernetwork.com##[data-testid="cookie-bar"]
 uniformswarehouse.com#%#//scriptlet('remove-class','is-opening-mfp')
-uniformswarehouse.com##[class~=t4s-newsletter_pp_wrapper]
+uniformswarehouse.com##[class~=mfp-bg],[class~=mfp-wrap],#shopify-chat,#shopify-section-back_top
 urbantoronto.ca##.main-notice
 urbantoronto.ca#$?#[data-xf-init="sticky-header"] {top: 0px !important;}
 urbantoronto.ca#$?#body { padding-top:0px !important; } 
