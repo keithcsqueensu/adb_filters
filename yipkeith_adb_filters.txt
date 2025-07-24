@@ -1,7 +1,7 @@
 ! Title: MyAdFilters
-! TimeUpdated: 20250716
+! TimeUpdated: 20250724
 ! Description: My Ad Filters
-! Version: 20250716
+! Version: 20250724
 ! Homepage: https://github.com/keithcsqueensu/adb_filters/blob/main/yipkeith_adb_filters.txt
 ! START: Rules from filters.txt
 
@@ -10,6 +10,9 @@ apkcombo.com##aside[class~=is-nav],[class~=apk-description],[class~=downloader-t
 apkpure.com##.chrome-install-pop, #nav_download_management, #policy-info, .share-fixed, [class~=discover], [dt-params*="module_name=apkpure_app"], .details_how_to, .follow-warp.details, [data-dt-module-name="popular_apps_24h"], [class="download-vip-subscribe-wrap"], a[title="Join Telegram Channel"],  a[title="How to install XAPK / APK file"], [class~="share-box"], [class~=security-statement-card], [class="module faq"], [dt-params*="module_name=push_subscribe"], [dt-eid="pwa_subscribe_button"], [class~="nav_aipure"]
 bing.com###b-scopeListItem-conv, #b-scopeListItem-copilotsearch, #chatresponse, #id_mobile, #id_rh_w, .b_phead_chat_link, .ca_top_sec, .rewards_badge_content, .b_pag:has(a[title="Copilot Search results with GPT"])
 blogto.com##.content-from-our-partners-section, .sponsored-disclaimer
+cabinradio.ca##[class~=topad],p > font:contains(Advertisement.):upward(:is(div[class~=block-wrap], div[class~=gcabinr])), iframe[src="https://cabinradio.substack.com/embed"]:upward(div[class~=block-wrap])
+cbc.ca###didomi-notice
+cnn.com###onetrust-consent-sdk
 duckduckgo.com##.desktop-homepage_belowTheFoldWrapper__ruEBp, div#features[data-testid="belowTheFold"]
 duckduckgo.com##.minimal-homepage_belowTheFoldWrapper__I_rnZ, .mobile-homepage_belowTheFoldWrapper__uLd_z
 duckduckgo.com##.mobile-homepage_footer__JZ8h8, div:has(> a[href="#features"]), div[data-testid="serp-atb-btn"], #react-ai-button-slot, .V_kJtMs7Zyzm6ruq8Z3u.O9Ipab51rBntYb0pwOQn, .footer__addons, div:has(> section > :contains(Switch to DuckDuckGo)), [class^="sidemenu-browser-promo_sideMenuBrowserPromo"], section[class^=sideMenu]:has(:is(:contains(Downloads), :contains(More from DuckDuckGo))) , [data-testid="aichat-button"], div:has(>[data-testid="feedback-prompt"]), div[class^=header]:has(>a[href="/compare-privacy"])
@@ -19,7 +22,7 @@ hatland.com###banner-wide,[id^=PopupSignupForm],[class~=shopperlink],[class~=sho
 infoq.com##.cards.nocontent.related__group.no-style
 reddit.com##reddit-header-small > header > nav > div[class~=relative] > div[class~=relative], faceplate-tracker:is(:has(button#get-app), [noun="avatar_shop"], [noun="contributor_program"], [noun="edit_avatar"], [noun="gen_guides_top"], [noun="inbox"], [noun=advertise], [noun=try_reddit_pro], [source="achievements"], [source="xpromo"]), [class~=left-nav-create-community-button], [class~=legal-links], [data-part="inbox"], button[downvote], button[upvote], create-post-entry-point-wrapper, div[aria-label="Actions available for this post"], faceplate-bottom-sheet[id^="xpromo"], faceplate-textarea-input[placeholder="Join the conversation"], nav[aria-label='Reddit resources'], reddit-chat-header-button, shreddit-async-loader[bundlename="feed_announcement"], shreddit-comment-action-row, shreddit-join-button, shreddit-modmode-setter, details:has( :is(summary[aria-controls="moderation_section"], summary[aria-controls="multireddits_section"])), reddit-sidebar-nav#left-sidebar > nav > :is(:nth-child(2 of hr), :nth-child(3 of hr))
 reddit.com#%#//scriptlet('hide-in-shadow-dom', ':is(shreddit-comment-action-row,shreddit-join-button,shreddit-post-overflow-menu,shreddit-post-share-button,award-button,[noun=gen_guides_sidebar])')
-theweathernetwork.com##[data-testid="cookie-bar"]
+theweathernetwork.com##[data-testid="cookie-bar"],#didomi-notice
 uniformswarehouse.com#%#//scriptlet('remove-class','is-opening-mfp')
 uniformswarehouse.com##[class~=mfp-bg],[class~=mfp-wrap],#shopify-chat,#shopify-section-back_top
 urbantoronto.ca##.main-notice
