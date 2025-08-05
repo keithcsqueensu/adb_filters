@@ -31,3 +31,9 @@ urbantoronto.ca#$?#body { padding-top:0px !important; }
 [$path=/forum/]urbantoronto.ca##div:has(>#main-header),#header_block
 xda-developers.com##.affiliate-sponsored > span, .article-widget-feed, .footer-recommended-feed, .footer-threads
 ||chatapps-us.netomi.com^
+apkcombo.com##section[class~=widget]:has(:is(a[href="/category/game/hot/"],a[href="/category/app/hot/"],a[href="/category/game/latest-updates/"],a[href="/category/app/latest-updates/"],a[href="/category/game/new-releases/"],a[href="/category/app/new-releases/"],a[href="/category/app/trending-searches/"],a[href="/category/game/trending-searches/"])), div:has(:is(>a[href="/category/game/"],>a[href="/category/app/"]))
+google.com##:contains(Google recommends using Chrome):upward(5)
+apnews.com###onesignal-slidedown-container
+bing.com###eu_main
+apkmirror.com###bottom-slider, [class~=sidebar-widget]
+mobilism.org##[class~=announcement]
